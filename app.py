@@ -1,3 +1,6 @@
+
+
+
 import streamlit as st
 import os
 import json
@@ -233,7 +236,7 @@ def main():
             st.session_state.current_selection = existing_preference.get("choice")
         
         # Display image pair
-        st.markdown("<div class='preference-header'>Which image do you prefer?</div>", unsafe_allow_html=True)
+        st.markdown("<div class='preference-header'>Which video seems more physically reasonable?</div>", unsafe_allow_html=True)
         col1, col2 = st.columns(2)
         
         # Function to handle preference selection

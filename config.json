@@ -1,12 +1,16 @@
+
 {
     "rand_seed": null,
     "parallel_sample": true,
-    "total_pairs": 10,
+    "total_pairs": 100,
     "img_dirs": [ 
-        "videos/method1",
-        "videos/method2",
-        "videos/method3"
+        "crashtwin/10ksyn",
+        "crashtwin/cos_van",
+        "crashtwin/G_AVC"
+        
     ],
     "img_postfix": "mp4",
     "remark": "it is expected that sub dir contains the same amount of images"
 }
+
+
