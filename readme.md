@@ -9,6 +9,7 @@ pip install streamlit pandas
 
 download data
 ```
+pip install gdown
 gdown 1G4FRrv6F_qchfgDzTtJsYl9sR_vnQqB2
 ```
 
