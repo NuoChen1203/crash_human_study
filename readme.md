@@ -9,7 +9,7 @@ pip install streamlit pandas
 
 download data
 ```
-https://drive.google.com/file/d/1G4FRrv6F_qchfgDzTtJsYl9sR_vnQqB2/view?usp=sharing
+gdown 1G4FRrv6F_qchfgDzTtJsYl9sR_vnQqB2
 ```
 
 run the front end:
