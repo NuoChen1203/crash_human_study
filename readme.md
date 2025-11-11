@@ -4,6 +4,8 @@ update the `config.json` to specify a list of subdirectories, images in which wi
 
 install dependencies:
 ```
+conda create -n userstudy python==3.10 -y
+conda activate userstudy
 pip install streamlit pandas
 ```
 
