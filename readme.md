@@ -11,6 +11,7 @@ pip install streamlit pandas
 
 download data
 ```
+cd crash_human_study
 pip install gdown
 gdown 1G4FRrv6F_qchfgDzTtJsYl9sR_vnQqB2
 unzip crashtwin.zip
